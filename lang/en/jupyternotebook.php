@@ -32,10 +32,10 @@ $string['jupyternotebook:view'] = 'View Jupyter Notebook';
 
 $string['serverurllabel'] = 'Server adress';
 $string['courseidlabel'] = 'Course id';
-$string['notebooklabel'] = 'Path and notebook id Chemin et identifiant du notebook';
+$string['notebooklabel'] = 'Path and notebook id';
 $string['iframeweightlabel'] = 'iframe height';
 
-$string['activityhelplabel'] = '<p>Help : <a href="https://wiki.magistere.education.fr/Ajouter_un_notebook_jupyter">https://wiki.magistere.education.fr/Ajouter_un_notebook_jupyter</a></p>';
+$string['activityhelplabel'] = '<p>Help : <a href="https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_jupyternotebook">https://gitlab.com/dne-elearning/moodle-magistere/moodle-mod_jupyternotebook</a></p>';
 
 $string['repositoryuser'] = 'Repository user';
 $string['repositoryuserdesc'] = 'Repository id of the repository creator';
