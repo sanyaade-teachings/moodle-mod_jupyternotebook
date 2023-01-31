@@ -34,7 +34,7 @@ class backup_jupyternotebook_activity_structure_step extends backup_activity_str
 
         // Define each element separated
         $jupyternotebook = new backup_nested_element('jupyternotebook', array('id'), array(
-            'name', 'intro', 'introformat', 'displayoptions',
+            'name', 'intro', 'introformat', 'showdescription', 'displayoptions',
             'serverurl', 'jpcourseid', 'jpnotebookid', 'iframeheight', 'timemodified'));
 
         // Define sources
