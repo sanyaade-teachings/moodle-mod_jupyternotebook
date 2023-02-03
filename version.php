@@ -24,7 +24,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2023011800;       // The current module version (Date: YYYYMMDDXX)
+$plugin->version   = 2023020300;       // The current module version (Date: YYYYMMDDXX)
 $plugin->requires  = 2016051901;    // Requires this Moodle version
 $plugin->component = 'mod_jupyternotebook';        // Full name of the plugin (used for diagnostics)
 $plugin->cron      = 0;
